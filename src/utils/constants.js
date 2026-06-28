@@ -1,4 +1,5 @@
 import profileImg from '../assets/profileImg1.jpeg'
+import resume from '../assets/Promise_Machio_CV_Portfolio.pdf'
 export const PERSONAL_INFO = {
     name: 'Arauna Promise',
     title: 'Software Developer & UI/UX Enthusiast',
@@ -6,7 +7,7 @@ export const PERSONAL_INFO = {
     location: 'Nairobi,kenya',
     tagline: 'Crafting seamless ...',
     image: profileImg,
-    resume: '/.pdf',
+    resume: resume,
     bio: [
         "I'm a passionate software developer with a strong interest in creating clean, functional, and engaging web applications.",
 
@@ -20,7 +21,7 @@ export const SOCIAL_LINK = {
     github: 'https://github.com/PromiseMachio',
     linkedin: 'https://linkedin.com/in/promise-arauna774521396',
     twitter: 'https://x.com/Arauna_876',
-    dribble: ''
+    dribble: 'https://dribbble.com/promise-machio'
 }
 
 export const STATS = [
