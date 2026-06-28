@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🌐 Live Demo
 
-[View Portfolio]([https://promise-morden-portfolio.vercel.app/])
+[View Portfolio](https://promise-morden-portfolio.vercel.app/)
 
 ---
 
