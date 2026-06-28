@@ -1,10 +1,11 @@
+import profileImg from '../assets/profileImg1.jpeg'
 export const PERSONAL_INFO = {
     name: 'Arauna Promise',
     title: 'Software Developer & UI/UX Enthusiast',
     email: 'machiopromise05@gmail.com',
     location: 'Nairobi,kenya',
     tagline: 'Crafting seamless ...',
-    image: 'public/profileImg1.jpeg',
+    image: profileImg,
     resume: '/.pdf',
     bio: [
         "I'm a passionate software developer with a strong interest in creating clean, functional, and engaging web applications.",
@@ -17,8 +18,8 @@ export const PERSONAL_INFO = {
 
 export const SOCIAL_LINK = {
     github: 'https://github.com/PromiseMachio',
-    linkedin: 'https://linkedin.com/',
-    twitter: '',
+    linkedin: 'https://linkedin.com/in/promise-arauna774521396',
+    twitter: 'https://x.com/Arauna_876',
     dribble: ''
 }
 
