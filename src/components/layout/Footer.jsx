@@ -16,10 +16,12 @@ const Footer = () => {
     return (
 
         <footer className='relative bg-black overflow-hidden border-t  border-white/10 '>
+            {/* Colors absolute to the relative footer container so the positioning of the colors are absolute to the footer */}
             <div className='absolute inset-0 overflow-hidden'>
                 <div className='absolute top-0 left-1/4 w-96 h-96 bg-primary/10 opacity-30 rounded-full blur-3xl ' />
                 <div className='absolute bottom-0 right-1/4 w-96 h-96 bg-primary/10 opacity-30 rounded-full blur-3xl' />
             </div>
+            {/* So this section a parent container is created  */}
             <div className='relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 '>
                 <div className='grid grid-cols-1 md:grid-cols-3 gap-12 mb-12'>
                     <FadeIn delay={0}>
